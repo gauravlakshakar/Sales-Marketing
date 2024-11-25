@@ -40,11 +40,5 @@ Pandas, NumPy
 Matplotlib, Seaborn, Plotly
 Dashboard Framework:
 
-Streamlit
-Deployment Platform:
-
-Streamlit Cloud
-Other Tools:
-
 Jupyter Notebooks (EDA)
 Excel/CSV for sample datasets.
